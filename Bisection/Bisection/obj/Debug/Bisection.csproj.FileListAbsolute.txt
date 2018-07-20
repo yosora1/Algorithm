@@ -1,0 +1,6 @@
+E:\C#_project\Bisection\Bisection\bin\Debug\Bisection.exe.config
+E:\C#_project\Bisection\Bisection\bin\Debug\Bisection.exe
+E:\C#_project\Bisection\Bisection\bin\Debug\Bisection.pdb
+E:\C#_project\Bisection\Bisection\obj\Debug\Bisection.csprojResolveAssemblyReference.cache
+E:\C#_project\Bisection\Bisection\obj\Debug\Bisection.exe
+E:\C#_project\Bisection\Bisection\obj\Debug\Bisection.pdb
